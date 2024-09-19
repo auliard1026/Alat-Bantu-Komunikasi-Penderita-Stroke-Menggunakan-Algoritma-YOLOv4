@@ -1,4 +1,7 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Alat_Bantu_Komunikasi_Penderita_Stroke_Menggunakan_Algoritma_YOLO_0"></a>Alat Bantu Komunikasi Penderita Stroke Menggunakan Algoritma YOLO</h1>
+
+![0919-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/800540ff-24e0-43f9-aef4-f184cddfae44)
+
 <p class="has-line-data" data-line-start="2" data-line-end="3">Alooo kbt, kali ini saya mau share proyek mengembangkan sebuah sistem komunikasi untuk penderita stroke menggunakan algoritma YOLO, yang diimplementasikan pada Single Board Computer [Nvidia Jetson Nano eMMC 16GB, Kalau ada yang minat cara instalasinya, nanti saya up], namun bisa di run juga di PC. Sistem ini menggunakan dua model YOLO:</p>
 <ul>
 <li class="has-line-data" data-line-start="4" data-line-end="5">YOLOv4: Mendukung hingga 8 FPS.</li>
