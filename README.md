@@ -17,6 +17,6 @@ jika kbt berniat training dengan dataset sendiri, berikut merupakan link Google 
 </ul>
 <p class="has-line-data" data-line-start="19" data-line-end="20">Jika Anda memiliki pertanyaan terkait program, pelatihan model, atau diskusi santai, jangan ragu untuk menghubungi saya (siapa tau jodohkan, hehehe),</p>
 <ul>
-<li class="has-line-data" data-line-start="20" data-line-end="21">Instagram: @_dhan.i</li>
+<li class="has-line-data" data-line-start="20" data-line-end="21">Instagram: <a href="https://www.instagram.com/_dhan.i/">_dhan.i</a></li>
 <li class="has-line-data" data-line-start="21" data-line-end="22">LinkedIn: <a href="https://www.linkedin.com/in/ramadhani-aulia/">Aulia Ramadhani</a></li>
 </ul>
