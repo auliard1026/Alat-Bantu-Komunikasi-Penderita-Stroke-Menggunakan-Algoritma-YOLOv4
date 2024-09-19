@@ -9,13 +9,14 @@
 <li class="has-line-data" data-line-start="9" data-line-end="10">Bot Father - <a href="https://t.me/BotFather">https://t.me/BotFather</a></li>
 <li class="has-line-data" data-line-start="10" data-line-end="12">GetIDs Bot - <a href="https://t.me/getidsbot">https://t.me/getidsbot</a></li>
 </ul>
-<p class="has-line-data" data-line-start="12" data-line-end="13">Model YOLO dilatih menggunakan Google Colab dengan dataset yang dibuat secara mandiri untuk proyek ini.</p>
+<p class="has-line-data" data-line-start="12" data-line-end="14">Model YOLO dilatih menggunakan Google Colab dengan dataset yang dibuat secara mandiri, beikut model YOLO yang saya gunakan: <a href="https://drive.google.com/drive/folders/1WQTd24fab4RdJM9kZZrCD2qT5ycXLb0c?usp=drive_link">https://drive.google.com/drive/folders/1WQTd24fab4RdJM9kZZrCD2qT5ycXLb0c?usp=drive_link</a><br>
+jika kbt berniat training dengan dataset sendiri, berikut merupakan link Google Colab untuk training:</p>
 <ul>
-<li class="has-line-data" data-line-start="14" data-line-end="15">Google Collab Yolov4       - <a href="https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sharing">https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sharing</a></li>
-<li class="has-line-data" data-line-start="15" data-line-end="17">Google Collab Yolov4-Tiny  - <a href="https://colab.research.google.com/drive/1hQO4nOoD6RDxdbz3C1YSiifTsyZjZpYm?usp=sharing">https://colab.research.google.com/drive/1hQO4nOoD6RDxdbz3C1YSiifTsyZjZpYm?usp=sharing</a></li>
+<li class="has-line-data" data-line-start="15" data-line-end="16">Google Collab Yolov4       - <a href="https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sharing">https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sharing</a></li>
+<li class="has-line-data" data-line-start="16" data-line-end="17">Google Collab Yolov4-Tiny  - <a href="https://colab.research.google.com/drive/1hQO4nOoD6RDxdbz3C1YSiifTsyZjZpYm?usp=sharing">https://colab.research.google.com/drive/1hQO4nOoD6RDxdbz3C1YSiifTsyZjZpYm?usp=sharing</a></li>
 </ul>
-<p class="has-line-data" data-line-start="17" data-line-end="18">Jika Anda memiliki pertanyaan terkait program, pelatihan model, atau diskusi santai, jangan ragu untuk menghubungi saya,</p>
+<p class="has-line-data" data-line-start="19" data-line-end="20">Jika Anda memiliki pertanyaan terkait program, pelatihan model, atau diskusi santai, jangan ragu untuk menghubungi saya (siapa tau jodohkan, hehehe),</p>
 <ul>
-<li class="has-line-data" data-line-start="18" data-line-end="19">Instagram: <a href="https://www.instagram.com/_dhan.i//">_dhan.i</a></li>
-<li class="has-line-data" data-line-start="19" data-line-end="20">LinkedIn: <a href="https://www.linkedin.com/in/ramadhani-aulia/">Aulia Ramadhani</a></li>
+<li class="has-line-data" data-line-start="20" data-line-end="21">Instagram: @_dhan.i</li>
+<li class="has-line-data" data-line-start="21" data-line-end="22">LinkedIn: <a href="https://www.linkedin.com/in/ramadhani-aulia/">Aulia Ramadhani</a></li>
 </ul>
