@@ -1,4 +1,4 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Alat_Bantu_Komunikasi_Penderita_Stroke_Menggunakan_Algoritma_YOLO_0"></a>Alat Bantu Komunikasi Penderita Stroke Menggunakan Algoritma YOLO</h1>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Hand Gesture Detection Untuk Membantu Penderita Stroke Dalam Berkomunikasi Menggunakan YOLO</h1>
 
 ![0919-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/800540ff-24e0-43f9-aef4-f184cddfae44)
 
